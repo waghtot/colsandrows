@@ -5,7 +5,7 @@
 //hit enter
 //make sure that initial $string value have been set.
 
-$string = '';
+$string = ''; //provide required value i.e. 'A28','sea2289'...
 
 
 if(isset($string) && !empty($string)){
